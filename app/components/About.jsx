@@ -9,7 +9,7 @@ var About = (props) => {
       &nbsp;
       <span className="warning badge">3</span>
       <hr/>
-      <h1 className='text-center'>About</h1>
+      <h1 className='text-center page-title'>About</h1>
       <p>
         This is a simple weather application which uses React.js framework.
       </p>
